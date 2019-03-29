@@ -13,6 +13,7 @@ coverage/
 docs/
 tmp/
 /package-lock.json
+/yarn.lock
 
 # Jet Brains IDE files
 .idea
