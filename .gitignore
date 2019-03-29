@@ -14,3 +14,5 @@ docs/
 tmp/
 /package-lock.json
 
+# Jet Brains IDE files
+.idea
